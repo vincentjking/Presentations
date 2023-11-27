@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//GDSX//COMPLEAT v2.7.143.101//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+CREATED:20230822T095310Z
+DTSTAMP:20230822T095310Z
+LAST-MODIFIED:20230822T095310Z
+SEQUENCE:0
+UID:f3c9f7d7-fbba-4329-bc82-c072f6d44c35
+LOCATION:
+DESCRIPTION:Hotel - TOWN HOUSE\n54 ST DAVIDS HILL\, EX4 4DT EXETER\nPhon
+ e: (44) 1392 494 994\nCheck-in: 11 Sep 2023\nCheck-out: 12 Sep
+  2023\nPassenger: KING/VINCENTMR\nReference: 2283039366\nTrip
+  Reference: 5DJ3FC (1G)\n---------------------------------------\n
+SUMMARY:Trip to XXX & Stratford (London) & London Paddington & Exeter
+  St David's & London Liverpool Street & Ware (Herts)  - HRG Trip
+  Ref: 5DJ3FC
+CLASS:PUBLIC
+PRIORITY:5
+TRANSP:TRANSPARENT
+DTSTART:20230911T000000Z
+DURATION:P1DT19H55M
+X-ALT-DESC;FMTTYPE=text/html:<HTML><b><u>Hotel - TOWN HOUSE</b></u><br>54
+  ST DAVIDS HILL\, EX4 4DT EXETER<br><b>Phone: </b>(44) 1392 494
+  994<br><b>Check-in: </b>11 Sep 2023<br><b>Check-out: </b>12 Sep
+  2023<br><b>Passenger: </b>KING/VINCENTMR<br><b>Reference: </b>2283039366
+ <br><b>Trip Reference: </b>5DJ3FC (1G)<br><br><br><b><u>Rail - Domestic
+  Rail Journey  </b></u><br><b>From: </b>Ware (Herts)<br><b>To: </b>Stratf
+ ord (London)<br><b>Date: </b>11 Sep 2023<br><b>Times: </b>07:55
+  - 08:41<br><b>Reference: </b>2858569415<br><b>Fast Ticket Reference:
+  </b>5BLJR2NJ<br><br><br><b><u>Rail - Domestic Rail Journey  </b></u><br>
+ <b>From: </b>Stratford (London)<br><b>To: </b>London Paddington<br><b>Dat
+ e: </b>11 Sep 2023<br><b>Times: </b>08:56 - 09:15<br><b>Reference:
+  </b>2858569415<br><b>Fast Ticket Reference: </b>5BLJR2NJ<br><br><br><b><
+ u>Rail - Domestic Rail Journey  </b></u><br><b>From: </b>London
+  Paddington<br><b>To: </b>Exeter St David's<br><b>Date: </b>11 Sep
+  2023<br><b>Times: </b>09:37 - 11:54<br><b>Reference: </b>2858569415<br><
+ b>Fast Ticket Reference: </b>5BLJR2NJ<br><br><br><b><u>Rail - Domestic
+  Rail Journey  </b></u><br><b>From: </b>Exeter St David's<br><b>To:
+  </b>London Paddington<br><b>Date: </b>12 Sep 2023<br><b>Times:
+  </b>17:15 - 19:22<br><b>Reference: </b>2858569415<br><b>Fast Ticket
+  Reference: </b>5BLJR2NJ<br><br><br><b><u>Rail - Domestic Rail Journey
+   </b></u><br><b>From: </b>London Paddington<br><b>To: </b>London
+  Liverpool Street<br><b>Date: </b>12 Sep 2023<br><b>Times: </b>19:41
+  - 19:51<br><b>Reference: </b>2858569415<br><b>Fast Ticket Reference:
+  </b>5BLJR2NJ<br><br><br><b><u>Rail - Domestic Rail Journey  </b></u><br>
+ <b>From: </b>London Liverpool Street<br><b>To: </b>Ware (Herts)<br><b>Dat
+ e: </b>12 Sep 2023<br><b>Times: </b>20:12 - 20:55<br><b>Reference:
+  </b>2858569415<br><b>Fast Ticket Reference: </b>5BLJR2NJ<br><br><br></HT
+ ML>
+END:VEVENT
+END:VCALENDAR
