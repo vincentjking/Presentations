@@ -1,0 +1,12 @@
+Receipt IDs
+
+Merchant ID: MVVY9R6L
+Transaction ID: TC4VPHE4ZX
+Receipt no.: MVVY9R6L-4706
+
+
+Merchant ID: MZKY6VCA
+Transaction ID: TQ7329V2TF
+Receipt no.: MZKY6VCA-2085
+
+
